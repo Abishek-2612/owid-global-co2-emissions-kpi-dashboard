@@ -12,4 +12,4 @@ Clean OWID dataset (~90 filtered rows) for climate-tech Net-Zero analysis.
 
 ## Dashboard Preview
 
-![Global CO₂ Emissions KPI Dashboard](dashboard.png)
+![Global CO₂ Emissions KPI Dashboard](Dashboard.png)
