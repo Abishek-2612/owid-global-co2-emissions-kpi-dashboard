@@ -9,3 +9,7 @@ Clean OWID dataset (~90 filtered rows) for climate-tech Net-Zero analysis.
 ## Tools
 - MS Excel (Power Query ETL, PivotTables, Slicers for aggregation/synthesis).
 - SQL (ETL/growth queries in /sql_queries).
+
+## Dashboard Preview
+
+![Global CO₂ Emissions KPI Dashboard](dashboard.png)
